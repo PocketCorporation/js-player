@@ -25,7 +25,7 @@ const music_list = [
         img: 'media/girl2.jpg',
         name: 'Poly-coffee',
         artist: 'Plums',
-        music: 'media/Poly-coffee.mp4'
+        music: 'media/PolyCoffee.mp3'
     },
     {
         img: 'media/girl3.jpg',
@@ -43,7 +43,7 @@ const music_list = [
         img: 'media/girl7.jpeg',
         name: 'They Deserve To Die',
         artist: 'Pisca',
-        music: 'media/They-Deserver-To-Die.mp4'
+        music: 'media/They-Deserve-To-Die.mp4'
     },
     
 ]
