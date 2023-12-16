@@ -147,7 +147,7 @@ i.fa-play-backward{
     justify-content: center;
     align-items: center;
 }
-.loader, .stroke{
+.loader .stroke{
     background: #f1f1f1;
     height: 150%;
     width: 10px;
